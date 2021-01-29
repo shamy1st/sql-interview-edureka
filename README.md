@@ -65,6 +65,11 @@
 
 ##
 ![](https://github.com/shamy1st/sql-interview-edureka/blob/main/images/q22.png)
+![](https://github.com/shamy1st/sql-interview-edureka/blob/main/images/q22-1.png)
+![](https://github.com/shamy1st/sql-interview-edureka/blob/main/images/q22-2.png)
+![](https://github.com/shamy1st/sql-interview-edureka/blob/main/images/q22-3.png)
+![](https://github.com/shamy1st/sql-interview-edureka/blob/main/images/q22-4.png)
+![](https://github.com/shamy1st/sql-interview-edureka/blob/main/images/q22-5.png)
 
 ##
 ![](https://github.com/shamy1st/sql-interview-edureka/blob/main/images/q23.png)
@@ -137,6 +142,8 @@
 
 ##
 ![](https://github.com/shamy1st/sql-interview-edureka/blob/main/images/q46.png)
+![](https://github.com/shamy1st/sql-interview-edureka/blob/main/images/q46-1.png)
+![](https://github.com/shamy1st/sql-interview-edureka/blob/main/images/q46-2.png)
 
 ##
 ![](https://github.com/shamy1st/sql-interview-edureka/blob/main/images/q47.png)
