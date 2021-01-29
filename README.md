@@ -181,7 +181,7 @@
 ## List all the types of user-defined functions.
 ![](https://github.com/shamy1st/sql-interview-edureka/blob/main/images/q58.png)
 
-## 
+## What do you mean by Collation?
 ![](https://github.com/shamy1st/sql-interview-edureka/blob/main/images/q59.png)
 
 ## What are the different types of Collation Sensitivity?
